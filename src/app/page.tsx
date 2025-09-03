@@ -30,7 +30,7 @@ const Home: FC = () => {
       <main className="relative z-10 min-h-screen bg-transparent text-gray-900 px-4 sm:px-6 lg:px-8">
         <section className="max-w-5xl mx-auto text-center py-20">
           <h1 className="text-4xl sm:text-5xl md:text-6xl font-extrabold mb-4 text-white/80 tracking-tight">
-            Hi, I'm Daniyal Siddiqui
+            Hi, I&apos;m Daniyal Siddiqui
           </h1>
           <p className="text-base sm:text-xl md:text-2xl text-gray-400/90 mb-8">
             Full Stack Developer | React, Next.js, Node.js, MongoDB, Sanity,
@@ -68,7 +68,7 @@ const Home: FC = () => {
                 About Me
               </h2>
               <p className="text-white/70 text-base sm:text-lg leading-relaxed">
-                I'm a full stack developer with a focus on modern web
+                I&apos;m a full stack developer with a focus on modern web
                 technologies. I build scalable, performant applications using
                 latest frameworks and languages like React, Next.js, Node.js,
                 TypeScript, Sanity and MongoDB etc... I care about clean code,
@@ -96,7 +96,7 @@ const Home: FC = () => {
                   <Card className="w-full shadow-2xl bg-gray-900 rounded-md backdrop-blur-2xl bg-opacity-0 border border-gray-100 transition-transform hover:scale-[1.02]">
                     <CardContent className="text-white">
                       <GoCodespaces className="text-blue-400 text-2xl mb-2" />
-                      <b>Backend & Tools</b>
+                      <b>Backend &amp; Tools</b>
                       <ul className="list-disc ml-4">
                         <li>Node.js</li>
                         <li>Sanity</li>
